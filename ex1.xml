@@ -1,0 +1,394 @@
+<?xml version ="1.0" encoding = "UTF-8"?>
+
+<torneo>
+    <nombre>open de francia</nombre>
+    <fecha-de-inicio>
+        <dia>18</dia>
+        <mes>11</mes>
+        <año>2022</año>
+    </fecha-de-inicio>
+    <fecha-de-fin>
+        <dia>18</dia>
+        <mes>12</mes>
+        <año>2022</año>
+    </fecha-de-fin>
+</torneo>
+<partido>
+    <fecha-de-partido>
+         <dia>19</dia>
+         <mes>11</mes>
+         <año>2022</año>
+    </fecha-de-partido>
+    <tenista>
+    <nombre>rafael nadal</nombre>
+        <nacionalidad>española</nacionalidad>
+        <fecha-de-nacimiento>
+         <dia>16</dia>
+         <mes>5</mes>
+        <año>1976</año>
+        </fecha-de-nacimiento>
+    </tenista>
+
+    <tenista>
+        <nombre>Roger Federer</nombre>
+        <nacionalidad>suizo</nacionalidad>
+        <fecha-de-nacimiento>
+         <dia>19</dia>
+         <mes>6</mes>
+         <año>1986</año>
+        </fecha-de-nacimiento>
+    </tenista>
+
+    <primer-sets>
+    <darto>45 - 30</dato>
+    </primer-sets>
+
+    <segundo-sets>
+    <darto>30 - 45</dato>
+    </segundo-sets>
+
+    <tercer-sets>
+    <darto>45 - 15</dato>
+    </tercer-sets>
+</partido>
+<partido>
+    <fecha-de-partido>
+         <dia>20</dia>
+         <mes>11</mes>
+         <año>2022</año>
+    </fecha-de-partido>
+    <tenista>
+    <nombre>Jimmy Connors</nombre>
+        <nacionalidad>usa</nacionalidad>
+        <fecha-de-nacimiento>
+         <dia>19</dia>
+         <mes>7</mes>
+        <año>2000</año>
+        </fecha-de-nacimiento>
+    </tenista>
+
+    <tenista>
+        <nombre>Novak Djokovic</nombre>
+        <nacionalidad>servio</nacionalidad>
+        <fecha-de-nacimiento>
+         <dia>20</dia>
+         <mes>8</mes>
+         <año>1987</año>
+        </fecha-de-nacimiento>
+    </tenista>
+
+    <primer-sets>
+    <darto>15 - 45</dato>
+    </primer-sets>
+
+    <segundo-sets>
+    <darto>30 - 30</dato>
+    </segundo-sets>
+    
+    <tercer-sets>
+    <darto>30 - 15</dato>
+    </tercer-sets>
+</partido>
+<partido>
+    <fecha-de-partido>
+         <dia>21</dia>
+         <mes>11</mes>
+         <año>2022</año>
+    </fecha-de-partido>
+    <tenista>
+    <nombre>carlos alcalaz</nombre>
+        <nacionalidad>español</nacionalidad>
+        <fecha-de-nacimiento>
+         <dia>15</dia>
+         <mes>6</mes>
+        <año>2001</año>
+        </fecha-de-nacimiento>
+    </tenista>
+
+    <tenista>
+        <nombre>Ivan Lendl</nombre>
+        <nacionalidad>usa</nacionalidad>
+        <fecha-de-nacimiento>
+         <dia>13</dia>
+         <mes>9</mes>
+         <año>1995</año>
+        </fecha-de-nacimiento>
+    </tenista>
+
+    <primer-sets>
+    <darto>30 - 30</dato>
+    </primer-sets>
+
+    <segundo-sets>
+    <darto>15 - 45</dato>
+    </segundo-sets>
+    
+    <tercer-sets>
+    <darto>30 - 45</dato>
+    </tercer-sets>
+</partido>
+<partido>
+    <fecha-de-partido>
+         <dia>23</dia>
+         <mes>11</mes>
+         <año>2022</año>
+    </fecha-de-partido>
+    <tenista>
+        <nombre>Novak Djokovic</nombre>
+        <nacionalidad>servio</nacionalidad>
+        <fecha-de-nacimiento>
+         <dia>20</dia>
+         <mes>8</mes>
+         <año>1987</año>
+        </fecha-de-nacimiento>
+    </tenista>
+    <tenista>
+    <nombre>Jimmy Connors</nombre>
+        <nacionalidad>usa</nacionalidad>
+        <fecha-de-nacimiento>
+         <dia>19</dia>
+         <mes>7</mes>
+        <año>2000</año>
+        </fecha-de-nacimiento>
+    </tenista>
+
+    <primer-sets>
+    <darto>30 - 15</dato>
+    </primer-sets>
+
+    <segundo-sets>
+    <darto>15 - 45</dato>
+    </segundo-sets>
+    
+    <tercer-sets>
+    <darto>45 - 15</dato>
+    </tercer-sets>
+</partido>
+<partido>
+    <fecha-de-partido>
+         <dia>23</dia>
+         <mes>11</mes>
+         <año>2022</año>
+    </fecha-de-partido>
+    <tenista>
+    <nombre>carlos alcalaz</nombre>
+        <nacionalidad>español</nacionalidad>
+        <fecha-de-nacimiento>
+         <dia>15</dia>
+         <mes>6</mes>
+        <año>2001</año>
+        </fecha-de-nacimiento>
+    </tenista>
+
+    <tenista>
+    <nombre>Jimmy Connors</nombre>
+        <nacionalidad>usa</nacionalidad>
+        <fecha-de-nacimiento>
+         <dia>19</dia>
+         <mes>7</mes>
+        <año>2000</año>
+        </fecha-de-nacimiento>
+    </tenista>
+
+    <primer-sets>
+    <darto>15  45</dato>
+    </primer-sets>
+
+    <segundo-sets>
+    <darto>30 - 45</dato>
+    </segundo-sets>
+    
+    <tercer-sets>
+    <darto>15 - 30</dato>
+    </tercer-sets>
+</partido>
+<partido>
+    <fecha-de-partido>
+         <dia>26</dia>
+         <mes>11</mes>
+         <año>2022</año>
+    </fecha-de-partido>
+    <tenista>
+        <nombre>Roger Federer</nombre>
+        <nacionalidad>suizo</nacionalidad>
+        <fecha-de-nacimiento>
+         <dia>19</dia>
+         <mes>6</mes>
+         <año>1986</año>
+        </fecha-de-nacimiento>
+    </tenista>
+
+    <tenista>
+    <nombre>Jimmy Connors</nombre>
+        <nacionalidad>usa</nacionalidad>
+        <fecha-de-nacimiento>
+         <dia>19</dia>
+         <mes>7</mes>
+        <año>2000</año>
+        </fecha-de-nacimiento>
+    </tenista>
+
+    <primer-sets>
+    <darto>30 - 30</dato>
+    </primer-sets>
+
+    <segundo-sets>
+    <darto>15 - 15</dato>
+    </segundo-sets>
+    
+    <tercer-sets>
+    <darto>30 - 45</dato>
+    </tercer-sets>
+</partido>
+<partido>
+    <fecha-de-partido>
+         <dia>27</dia>
+         <mes>11</mes>
+         <año>2022</año>
+    </fecha-de-partido>
+    <tenista>
+    <nombre>carlos alcalaz</nombre>
+        <nacionalidad>español</nacionalidad>
+        <fecha-de-nacimiento>
+         <dia>15</dia>
+         <mes>6</mes>
+        <año>2001</año>
+        </fecha-de-nacimiento>
+    </tenista>
+
+    <tenista>
+        <nombre>Novak Djokovic</nombre>
+        <nacionalidad>servio</nacionalidad>
+        <fecha-de-nacimiento>
+         <dia>20</dia>
+         <mes>8</mes>
+         <año>1987</año>
+        </fecha-de-nacimiento>
+    </tenista>
+
+    <primer-sets>
+    <darto>15 - 45</dato>
+    </primer-sets>
+
+    <segundo-sets>
+    <darto>30 - 30</dato>
+    </segundo-sets>
+    
+    <tercer-sets>
+    <darto>30 - 45</dato>
+    </tercer-sets>
+</partido>
+<partido>
+    <fecha-de-partido>
+         <dia>1</dia>
+         <mes>12</mes>
+         <año>2022</año>
+    </fecha-de-partido>
+    <tenista>
+    <nombre>carlos alcalaz</nombre>
+        <nacionalidad>español</nacionalidad>
+        <fecha-de-nacimiento>
+         <dia>15</dia>
+         <mes>6</mes>
+        <año>2001</año>
+        </fecha-de-nacimiento>
+    </tenista>
+
+    <tenista>
+    <nombre>Jimmy Connors</nombre>
+        <nacionalidad>usa</nacionalidad>
+        <fecha-de-nacimiento>
+         <dia>19</dia>
+         <mes>7</mes>
+        <año>2000</año>
+        </fecha-de-nacimiento>
+    </tenista>
+
+    <primer-sets>
+    <darto>45 - 15</dato>
+    </primer-sets>
+
+    <segundo-sets>
+    <darto>15 - 30</dato>
+    </segundo-sets>
+    
+    <tercer-sets>
+    <darto>30 - 15</dato>
+    </tercer-sets>
+</partido>
+<partido>
+    <fecha-de-partido>
+         <dia>15</dia>
+         <mes>12</mes>
+         <año>2022</año>
+    </fecha-de-partido>
+    <tenista>
+    <nombre>carlos alcalaz</nombre>
+        <nacionalidad>español</nacionalidad>
+        <fecha-de-nacimiento>
+         <dia>15</dia>
+         <mes>6</mes>
+        <año>2001</año>
+        </fecha-de-nacimiento>
+    </tenista>
+    <tenista>
+    <nombre>rafael nadal</nombre>
+        <nacionalidad>española</nacionalidad>
+        <fecha-de-nacimiento>
+         <dia>16</dia>
+         <mes>5</mes>
+        <año>1976</año>
+        </fecha-de-nacimiento>
+    </tenista>
+
+
+    <primer-sets>
+    <darto>45 - 30</dato>
+    </primer-sets>
+
+    <segundo-sets>
+    <darto>30 - 15</dato>
+    </segundo-sets>
+    
+    <tercer-sets>
+    <darto>30 - 30</dato>
+    </tercer-sets>
+</partido>
+<partido>
+    <fecha-de-partido>
+         <dia>18</dia>
+         <mes>12</mes>
+         <año>2022</año>
+    </fecha-de-partido>
+    <tenista>
+        <nombre>Ivan Lendl</nombre>
+        <nacionalidad>usa</nacionalidad>
+        <fecha-de-nacimiento>
+         <dia>13</dia>
+         <mes>9</mes>
+         <año>1995</año>
+        </fecha-de-nacimiento>
+    </tenista>
+
+    <tenista>
+    <nombre>rafael nadal</nombre>
+        <nacionalidad>española</nacionalidad>
+        <fecha-de-nacimiento>
+         <dia>16</dia>
+         <mes>5</mes>
+        <año>1976</año>
+        </fecha-de-nacimiento>
+    </tenista>
+
+    <primer-sets>
+    <darto>45 - 30</dato>
+    </primer-sets>
+
+    <segundo-sets>
+    <darto>15 - 45</dato>
+    </segundo-sets>
+    
+    <tercer-sets>
+    <darto>15 - 15</dato>
+    </tercer-sets>
+</partido>
